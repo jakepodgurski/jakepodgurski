@@ -10,6 +10,8 @@
 
 <div align=left>
    <h1>About Me 📷</h1>
+   Highly motivated Computer Science graduate with experience in full-stack development, cloud technologies, and software engineering. Skilled in designing, prototyping, and deploying scalable applications. Adept at collaborating with cross-functional teams, delivering     projects in fast-paced environments, and translating complex technical concepts into clear insights.
+   
    <h2>Stack & Tools 🧰</h2>
    <table>
       <tr>
@@ -47,8 +49,7 @@
        <tr>
          <td>Certifications</td>
          <td>
-            <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF" alt="GitHub"/>
-            <img src="https://img.shields.io/badge/anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=%23FFFFFF" alt="anaconda"/>
+            <img src="https://img.shields.io/badge/AWS Certified Cloud Practitioner-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=%23FFFFFF" alt="AWS"/>
          </td>
       </tr>
       </tr>
@@ -70,10 +71,10 @@
 <div align=left>
    <h1>Activity ⏭️</h1>
    <h2>Projects </h2></summary>
-   <h2>Full-stack To-do list website 📋</h2>
+   <h3>Full-stack To-do list website 📋</h3>
    <a href="https://github.com/jakepodgurski/todo-app">Repository</a>
    <a href="https://jdpodgurski-to-do-list.netlify.app/">Website</a>
-   <h2>Streaming Service Content Analysis</h2></summary>
+   <h3>Streaming Service Content Analysis</h3></summary>
    <div>
    </div>
    <a href="https://github.com/jakepodgurski/Streaming-Services-Comparison">Repository</a>
@@ -83,6 +84,6 @@
 </div>
 
 <div align=left>
-   <h1>Currently Learning 📖</h1>
+   <h2>Currently Learning 📖</h2>
    <p>SQL, Excel</p>
 </div>
