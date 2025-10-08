@@ -57,7 +57,7 @@
    <h2>Experience ✍️</h2>
    <h3>Software Developer @ Avyance (Jul. 2023 - Sep. 2023)</h3>
    <p>
-      At Avyance, I worked to streamline payroll processing and analysis by automating data extraction and report generation, which greatly reduced processing time and improved accuracy for our monthly audits.
+      At Avyance, I worked to streamline payroll processing and analysis by automating data extraction and report generation, which greatly reduced processing time and improved accuracy for monthly audits.
       I used Visual Basic (VBA) and Pivot Tables in Excel to create scripts within the desired environment that automate repetitive tasks, enabling efficient data manipulation, complex calculations, and dynamic reporting for over 200 employee records.
    </p>
    
